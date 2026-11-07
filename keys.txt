@@ -1,3 +1,3 @@
 CURZS-33RR-M6R5|revoked|0a2810000288b644bc944358|Sharing keys
 CURZS-MWN6-YL2R|revoked|d3be5c7223e40d94b275b18d|Sharing keys
-CURZS-47Z3-J6JG|lifetime||
+CURZS-47Z3-J6JG|lifetime|d3be5c7223e40d94b275b18d|
